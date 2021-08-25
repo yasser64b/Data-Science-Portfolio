@@ -3,7 +3,7 @@ This repository includes my current ongoing project, i.e., Urmia Lake Project, a
 
 # Followings are short summary of projects and data explanatory analyses:
 
-## Urmia Lake Project 
+## Urmia Lake Project:  (This is an ongoing project)
 
 This is a large project regarding saving an in-danger Lake named Urmia Lake in North West of Iran (see the following image from https://www.theguardian.com/). In this Notebook page explanatory Data Analyses is perfomerd in order to clean the data for the next Machine learning and more advanced statistical analysis to find out what is the main reason for the lake running dry. And, how it can be prevented. 
 So far, the following Data Sets are analayzed in the Note book:  
