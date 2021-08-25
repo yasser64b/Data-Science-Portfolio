@@ -1,7 +1,7 @@
 # Data Science Portfolio
 This repository includes my current ongoing project, i.e., Urmia Lake Project, and also many simple projects demonstrating my skills in Machine Learning.
 
-# Following is a short summary of projects and analysis:
+# Followings are short summary of projects and data explanatory analyses:
 
 ## Urmia Lake Project 
 
