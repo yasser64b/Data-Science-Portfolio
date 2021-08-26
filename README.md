@@ -14,10 +14,32 @@ So far, the following Data Sets are analayzed in the Note book:
 
 
 ___
-<a href=''> <img src='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/1/23/1421981805869/e1d6a83b-c92e-469b-8cb1-a5e14e05174e-1020x994.jpeg?width=445&quality=45&auto=format&fit=max&dpr=2&s=591cb8a9ba42ef64d259af6dfb334267' alt="Urmia Lake" width="400" height="400" /></a>
+ <img src='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/1/23/1421981805869/e1d6a83b-c92e-469b-8cb1-a5e14e05174e-1020x994.jpeg?width=445&quality=45&auto=format&fit=max&dpr=2&s=591cb8a9ba42ef64d259af6dfb334267' alt="Urmia Lake" width="400" height="400" /><
 ___
 
+# Data Visulization skills:
+### Seaborn 
+#### :heavy_check_mark: sns.pairplot() 
+ <img src='https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/output.png' alt="" width="400" height="400" />
+
+#### :heavy_check_mark: sns.PairGrid()
+ <img src='https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/pairGrid.png' alt="" width="400" height="400" />
+
+#### :heavy_check_mark: sns.JointGrid()
+<img src='https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/JointGrid.png' alt="" width="400" height="400" />
 
 
+#### :heavy_check_mark: sns.heatmap()
+<img src='https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/heatmap.png' alt="" width="500" height="400" />
+
+#### :heavy_check_mark: sns.clustermap()
+<img src='https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/clustermap.png' alt="" width="500" height="400" />
+
+#### :heavy_check_mark: sns.boxplot()
+<img src='https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/box.png' alt="" width="500" height="400" />
+
+### Matplotlib
+#### :heavy_check_mark: counturplot
+<img src='https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/counturplot.png' alt="" width="500" height="400" />
 
 
