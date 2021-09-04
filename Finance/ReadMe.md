@@ -1,4 +1,4 @@
-# Methods for stock proce forcasting 
+# Methods for stock price forcasting 
 ___
     1. Fundamental Analysis
     2. Technical Analysis
