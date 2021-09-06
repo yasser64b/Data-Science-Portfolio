@@ -41,6 +41,15 @@ ___
 - Algoritmic Trading  (use minute wise data of the stock)
 
 ___
-
+# Stocks Portfolio Optimization 
 <img src="https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/Stocks.png" alt="" width="" height="">
+
+
+# LSTM for prediction stock/cripto prediction 
+___
+## Bitcoin
+
+<img src="https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/Bitcoin%20pred.png" alt="" width="" height="">
+
+
 
