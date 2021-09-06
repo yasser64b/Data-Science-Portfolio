@@ -1,8 +1,8 @@
 # LSTM for stock price forcasting 
 
-# Stocks
+# Stocks: 
 
-## Google
-## Bitcoin
-## Tesla
+  * Google
+  * Bitcoin
+  * Tesla
 
