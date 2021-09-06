@@ -40,4 +40,7 @@ ___
 ### Trading 
 - Algoritmic Trading  (use minute wise data of the stock)
 
+___
+
+<img src="https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/Stocks.png" alt="" width="" height="">
 
