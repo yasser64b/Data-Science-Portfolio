@@ -1,7 +1,65 @@
 # Data Science Portfolio
 This repository includes my current ongoing project, i.e., Urmia Lake Project, and also many simple projects demonstrating my skills in Machine Learning.
+___
 
-# Followings are short summary of projects and data explanatory analyses:
+# Methods for stock price forcasting 
+___
+    1. Fundamental Analysis
+    2. Technical Analysis
+    3. Time Series Forecasting
+  ___
+### 1. Fundamental Analysis 
+share value of a company is estimated by analyzing:
+* sales
+* earnings
+* profits 
+* other economic factors
+
+This method is most suited for long term forecasting
+___
+
+### 2. Technical Analysis
+* uses the historical price of stocks for identifying the future price.
+        - Moving average (most common algorithm)
+ 
+ This method is suitable for short term predictions.
+ ___
+ 
+ ###  3. Time Series Forecasting
+
+This involves 2 types of algorithms
+* Linear Models (AR, ARMA, ARIMA) 
+* Non Linear Models (Deep learning algorithms)
+     -  inter dependency between **stock price** and **stock volume**
+     
+**Deep learning Algorithms :** 
+
+- Multi layer perceptrons (MLP)
+- Recursive Neural Networks (RNN)
+- CNN(Convolutional Neural Network)
+- **Long Short Term Memory (LSTM)**
+
+___
+
+### Trading 
+- Algoritmic Trading  (use minute wise data of the stock)
+
+___
+# Stocks Portfolio Optimization 
+<img src="https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/Stocks.png" alt="" width="" height="">
+
+
+# LSTM for prediction stock/cripto prediction 
+___
+## Bitcoin
+
+<img src="https://github.com/yasser64b/Data-Science-Portfolio/blob/main/Figures/Bitcoin%20pred.png" alt="" width="" height="">
+
+
+
+
+
+
 
 ## Urmia Lake Project:  (This is an ongoing project)
 
